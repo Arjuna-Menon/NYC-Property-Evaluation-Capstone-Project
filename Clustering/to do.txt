@@ -1,0 +1,6 @@
+Hierarchical Clustering:
+ between boroughts: just 5 different boroughts to see which one are similar to each other
+
+Interprete model based clusters
+ 
+ 

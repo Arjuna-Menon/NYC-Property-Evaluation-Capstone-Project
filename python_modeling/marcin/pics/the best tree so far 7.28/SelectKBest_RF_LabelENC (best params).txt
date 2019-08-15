@@ -1,0 +1,19 @@
+number of predictors 37
+['zipcode', 'cd', 'schooldist', 'council', 'firecomp', 
+'healtharea', 'sanitboro', 'sanitsub', 'zonedist1', 'ltdheight',
+ 'landuse', 'lotarea', 'bldgarea', 'numbldgs', 'numfloors', 'unitsres',
+ 'unitstotal', 'lotfront', 'lotdepth', 'bldgfront', 'bldgdepth', 'ext',
+ 'proxcode', 'irrlotcode', 'lottype', 'residfar', 'commfar', 'facilfar',
+ 'borocode', 'xcoord', 'ycoord', 'edesignum', 'sanitdistrict', 
+ 'healthcenterdistrict', 'pfirm15_flag', 'yearalter', 'income']
+Error train: 16531.52 Error test: 31582.38
+
+
+number of predictors 30
+['zipcode', 'cd', 'firecomp', 'sanitboro', 'zonedist1', 
+'ltdheight', 'landuse', 'lotarea', 'bldgarea', 'numfloors',
+ 'unitsres', 'unitstotal', 'lotfront', 'lotdepth', 'bldgfront', 
+ 'bldgdepth', 'ext', 'proxcode', 'irrlotcode', 'lottype', 'residfar', 
+ 'commfar', 'facilfar', 'borocode', 'ycoord', 'edesignum',
+ 'sanitdistrict', 'healthcenterdistrict', 'yearalter', 'income']
+Error train: 17324.29 Error test: 32097.72
